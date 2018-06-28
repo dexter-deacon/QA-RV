@@ -1,2 +1,1 @@
-# QA-RV
-QA Engineer Interview Project - Red Ventures
+This is a suite of tests for an interview project with Red Ventures.

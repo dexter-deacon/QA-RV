@@ -1,0 +1,22 @@
+{
+  "name": "qa-rv",
+  "version": "1.0.0",
+  "description": "QA Test for Frontier.com homepage (Red Ventures Interview Project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "wdio-dot-reporter": "0.0.9",
+    "wdio-mocha-framework": "^0.6.1",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "wdio-spec-reporter": "^0.1.4",
+    "webdriverio": "^4.13.0"
+  },
+  "dependencies": {
+    "selenium-standalone": "^6.15.1"
+  }
+}
