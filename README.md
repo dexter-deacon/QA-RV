@@ -8,7 +8,7 @@ This is a suite of tests using WebdriverIO Testrunner.  Follow the instructions 
     3. Save test.js file to your ./test/**/*.js
     4. Open terminal
     5. Move into new project directory folder via terminal
-    6. Initialize NPM with the following command::    $ npm test
+    6. Run the test with the following command::    $ npm test
     7. Wait for tests complete
 
 
